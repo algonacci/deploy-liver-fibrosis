@@ -1,0 +1,5 @@
+No Fibrosis
+Portal Fibrosis
+Periportal Fibrosis
+Septal Fibrosis
+Cirrhosis
